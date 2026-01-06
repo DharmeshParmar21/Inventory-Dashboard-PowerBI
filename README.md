@@ -1,11 +1,11 @@
-# 📊 Inventory Power BI Dashboard Project
+# Inventory Power BI Dashboard Project
 ### Interactive Inventory Management & Sales Performance Analysis using Power BI
 
 ![Dashboard Screenshot](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Inventory_Dashboard.png)
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
 - [Objective of the Analysis](#objective-of-the-analysis)
@@ -20,7 +20,7 @@
 ---
 
 ## 📌 Project Overview
-This project presents an **Inventory Management and Sales Analytics Dashboard** built using Power BI. It consolidates inventory and sales data to deliver actionable insights on product performance, revenue trends, and brand-level analysis through interactive visuals.
+This project presents an Inventory Management and Sales Analytics Dashboard developed using Power BI. The solution integrates inventory and sales data to provide clear visibility into product performance, revenue trends, and brand-level insights through interactive visuals.
 
 ---
 
@@ -39,68 +39,68 @@ Inventory-Dashboard-PowerBI/
 ---
 
 ## 🎯 Objective of the Analysis
-- Monitor inventory levels and valuation  
-- Track sales revenue and quarterly trends  
-- Evaluate brand-wise and product-wise performance  
-- Identify top and bottom performing products  
-- Support data-driven inventory and business decisions  
+- Monitor inventory levels and total inventory value  
+- Track sales revenue and quarterly performance trends  
+- Analyze brand-wise and product-wise performance  
+- Identify top-performing and underperforming products  
+- Enable data-driven inventory and business decisions  
 
 ---
 
 ## 🧪 Dataset & Methodology
-- **Master Dataset** – Product details, pricing, and inventory attributes  
-- **Sales Dataset** – Transaction-level sales data with date hierarchy  
+- **Master Dataset**: Product details, pricing, and inventory attributes  
+- **Sales Dataset**: Transaction-level sales data with date hierarchy  
 
 **Methodology**
-- Data cleaning and transformation in Power BI  
+- Data cleaning and transformation using Power BI  
 - Relationship modeling between sales and master data  
-- KPI creation using DAX  
-- Interactive visuals with slicers and filters  
+- KPI creation using DAX measures  
+- Interactive visuals enabled through slicers and filters  
 
 ---
 
 ## 📊 Dashboard Summary
-- KPI Cards – Inventory Units, Inventory Value, Revenue  
-- Revenue Trend Analysis – Quarterly bar and line charts  
-- Brand Slicer – Dior, LV, Nike, Prada  
-- Product-Level Table – Units, price, and inventory value  
-- Top 10 Products – Highest revenue contributors  
-- Bottom 10 Products – Underperforming SKUs  
+- KPI Cards displaying Inventory Units, Inventory Value, and Revenue  
+- Quarterly Revenue Trend analysis using bar and line charts  
+- Brand Slicer for Dior, LV, Nike, and Prada  
+- Product-level table showing units, price, and inventory value  
+- Top 10 products by revenue  
+- Bottom 10 products highlighting underperformance  
 
 ---
 
 ## 🧭 How to Use the Dashboard
-- Select a brand using the slicer to filter all visuals  
-- Review KPI cards for high-level performance  
-- Analyze quarterly revenue trends for seasonality  
-- Use product tables to evaluate stock and pricing  
-- Identify high and low performers for strategic actions  
+- Select a brand using the slicer to dynamically update all visuals  
+- Review KPI cards for a high-level performance snapshot  
+- Analyze quarterly revenue trends to identify seasonality  
+- Use the product table to evaluate stock levels and pricing  
+- Identify top and bottom products for strategic action  
 
 ---
 
 ## 💡 Insights & Key Findings
-- Revenue is driven by a limited set of high-performing products  
-- Certain brands consistently outperform others across quarters  
-- Inventory value does not always correlate with revenue  
-- Low-performing SKUs highlight optimization opportunities  
-- Seasonal trends impact revenue distribution  
+- A small group of products drives the majority of revenue  
+- Brand performance varies significantly across quarters  
+- High inventory value does not always translate into high revenue  
+- Underperforming products highlight inventory optimization opportunities  
+- Seasonal patterns influence revenue distribution  
 
 ---
 
 ## 📈 Business Value & Recommendations
-- Optimize inventory levels based on product performance  
-- Focus marketing and supply on high-revenue SKUs  
-- Reassess or phase out consistently low-performing products  
-- Align promotions with high-performing quarters  
-- Use brand-level insights for strategic planning  
+- Optimize inventory allocation based on sales performance  
+- Focus marketing and supply efforts on high-revenue SKUs  
+- Reevaluate or phase out consistently low-performing products  
+- Align promotional strategies with strong revenue periods  
+- Use brand-level insights to support strategic planning  
 
 ---
 
 ## 📁 Project Files
 | File Name | Description | Link |
-|---------|------------|------|
-| Power BI Dashboard | Interactive dashboard file | [Open](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Inventory%20dashboard.pbix) |
-| Dashboard Image | Screenshot of dashboard | [View](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Inventory_Dashboard.png) |
+|---------|-------------|------|
+| Power BI Dashboard | Interactive Power BI file | [Open](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Inventory%20dashboard.pbix) |
+| Dashboard Image | Dashboard screenshot | [View](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Inventory_Dashboard.png) |
 | Master Dataset | Product and inventory data | [Download](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Master.xlsx) |
 | Sales Dataset | Sales transaction data | [Download](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Sales.xlsx) |
 | Project Overview PDF | Detailed project documentation | [Read](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Smart-Inventory-Intelligence-Dashboard-A-Unified-Analytical-View-for-Product-Performance.pdf) |
