@@ -1,5 +1,5 @@
 # 📊 Inventory Power BI Dashboard Project
-### Interactive Inventory Management using Power BI
+### Interactive Inventory Management & Sales Performance Analysis using Power BI
 
 ![Dashboard Screenshot](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Inventory_Dashboard.png)
 
@@ -39,65 +39,66 @@ Inventory-Dashboard-PowerBI/
 ---
 
 ## 🎯 Objective of the Analysis
-- Monitor inventory levels and valuation
-- Track sales revenue and quarterly trends
-- Evaluate brand-wise and product-wise performance
-- Identify top and bottom performing products
-- Support data-driven inventory and business decisions
+- Monitor inventory levels and valuation  
+- Track sales revenue and quarterly trends  
+- Evaluate brand-wise and product-wise performance  
+- Identify top and bottom performing products  
+- Support data-driven inventory and business decisions  
 
 ---
 
 ## 🧪 Dataset & Methodology
-- **Master Dataset:** Product details, pricing, and inventory attributes  
-- **Sales Dataset:** Transaction-level sales data with date hierarchy  
-- **Methodology:**  
-  - Data cleaning and transformation in Power BI  
-  - Relationship modeling between sales and master data  
-  - KPI creation using DAX  
-  - Interactive visuals with slicers and filters  
+- **Master Dataset** – Product details, pricing, and inventory attributes  
+- **Sales Dataset** – Transaction-level sales data with date hierarchy  
+
+**Methodology**
+- Data cleaning and transformation in Power BI  
+- Relationship modeling between sales and master data  
+- KPI creation using DAX  
+- Interactive visuals with slicers and filters  
 
 ---
 
 ## 📊 Dashboard Summary
-- KPI Cards: Inventory Units, Inventory Value, Revenue  
-- Revenue Trend Analysis: Quarterly bar and line charts  
-- Brand Slicer: Dior, LV, Nike, Prada  
-- Product-Level Table: Units, price, and inventory value  
-- Top 10 Products: Highest revenue contributors  
-- Bottom 10 Products: Underperforming SKUs  
+- KPI Cards – Inventory Units, Inventory Value, Revenue  
+- Revenue Trend Analysis – Quarterly bar and line charts  
+- Brand Slicer – Dior, LV, Nike, Prada  
+- Product-Level Table – Units, price, and inventory value  
+- Top 10 Products – Highest revenue contributors  
+- Bottom 10 Products – Underperforming SKUs  
 
 ---
 
 ## 🧭 How to Use the Dashboard
-- Select a brand using the slicer to filter all visuals
-- Review KPI cards for high-level performance
-- Analyze quarterly revenue trends for seasonality
-- Use product tables to evaluate stock and pricing
-- Identify high and low performers for strategic actions
+- Select a brand using the slicer to filter all visuals  
+- Review KPI cards for high-level performance  
+- Analyze quarterly revenue trends for seasonality  
+- Use product tables to evaluate stock and pricing  
+- Identify high and low performers for strategic actions  
 
 ---
 
 ## 💡 Insights & Key Findings
-- Revenue is driven by a limited set of high-performing products
-- Certain brands consistently outperform others across quarters
-- Inventory value does not always correlate with revenue
-- Low-performing SKUs highlight optimization opportunities
-- Seasonal trends impact revenue distribution
+- Revenue is driven by a limited set of high-performing products  
+- Certain brands consistently outperform others across quarters  
+- Inventory value does not always correlate with revenue  
+- Low-performing SKUs highlight optimization opportunities  
+- Seasonal trends impact revenue distribution  
 
 ---
 
 ## 📈 Business Value & Recommendations
-- Optimize inventory levels based on product performance
-- Focus marketing and supply on high-revenue SKUs
-- Reassess or phase out consistently low-performing products
-- Align promotions with high-performing quarters
-- Use brand-level insights for strategic planning
+- Optimize inventory levels based on product performance  
+- Focus marketing and supply on high-revenue SKUs  
+- Reassess or phase out consistently low-performing products  
+- Align promotions with high-performing quarters  
+- Use brand-level insights for strategic planning  
 
 ---
 
 ## 📁 Project Files
 | File Name | Description | Link |
-|---------|-------------|------|
+|---------|------------|------|
 | Power BI Dashboard | Interactive dashboard file | [Open](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Inventory%20dashboard.pbix) |
 | Dashboard Image | Screenshot of dashboard | [View](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Inventory_Dashboard.png) |
 | Master Dataset | Product and inventory data | [Download](https://github.com/DharmeshParmar21/Inventory-Dashboard-PowerBI/blob/main/Master.xlsx) |
@@ -106,8 +107,8 @@ Inventory-Dashboard-PowerBI/
 
 ---
 
-## 👤 Author  
+## 👤 Author
 **Dharmesh Parmar**  
 Data Analyst | Power BI | Excel | SQL  
-📧 Email: Dhparmar@gmail.com   
+📧 Email: Dhparmar@gmail.com  
 GitHub: https://github.com/DharmeshParmar21
